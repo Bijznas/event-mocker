@@ -9,7 +9,7 @@ import javax.persistence.TypedQuery;
 import java.util.List;
 
 /**
- * Created by leapfrog on 2/4/17.
+ * Created by sanjib on 2/4/17.
  */
 @Default
 public class TestDaoImpl implements TestDao {
